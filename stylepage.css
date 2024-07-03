@@ -1,0 +1,76 @@
+body {
+    background-color: #b3f0b7;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    padding: 0;
+}
+
+.double-spaced {
+    line-height: 1.5;
+}
+
+header {
+    background-image: url(header2tree.webp); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    color: #ffffff;
+    padding: 50px;
+    text-align: center;
+}
+nav {
+    background-color: #1f4b11; /* Background color for padding */
+    padding: 10px; /* Padding for the navigation */
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+section {
+    padding: 50px 20px;
+}
+
+footer {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+section id"issue"{
+
+}
+
+h2 {
+    text-align: center;
+}
+
+.centered-text {
+    text-align: center;
+}
+
+.centered-text2 {
+    text-align: center;
+}
+
+.Obox{
+    border: 5px solid gray;
+    width: 1000px;
+    margin-left: 10%;
+    margin-right: 0%;
+}
+
